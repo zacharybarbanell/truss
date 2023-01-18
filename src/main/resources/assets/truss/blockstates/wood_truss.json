@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "truss:block/wood_truss" }
+    }
+}
